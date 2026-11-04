@@ -1,0 +1,25 @@
+Speakorb 声球 0.1.0 (preview / 内测版)
+
+[Install / 安装]
+Drag Speakorb.app into Applications, or double-click "安装.command" and press Return.
+把 Speakorb.app 拖进「应用程序」，或双击「安装.command」按回车。
+
+[First launch / 第一次打开]
+This build is not notarized by Apple. If macOS says it can't verify the developer:
+right-click Speakorb in Applications → Open → Open (only once).
+这个版本没有经过苹果公证。如果提示“无法验证开发者”：在「应用程序」里右键 Speakorb → 打开 → 仍然打开（只需一次）。
+
+Pick English or 中文 on the first screen; you can change it later in Settings → General.
+第一屏可以选 English 或中文，之后在「设置 → 通用」里随时换。
+
+[Permissions / 系统开关]
+Speakorb walks you through: Microphone, Input Monitoring, Accessibility, Speech Recognition.
+App 会带你打开：麦克风、输入监控、辅助功能、语音识别。
+
+[Use / 使用]
+Click into any text field → tap the right Option key → speak → tap it again. esc cancels.
+光标放进任意输入框 → 轻点右边的 Option → 说话 → 再点一下。esc 取消。
+
+[Uninstall / 卸载]
+Settings → About → Delete all Speakorb data, then drag Speakorb.app to the Trash.
+「设置 → 关于 → 彻底删除声球的所有数据」，再把 Speakorb.app 拖到废纸篓。

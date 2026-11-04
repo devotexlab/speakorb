@@ -1,0 +1,13 @@
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+.DS_Store
+*.dmg
+*.app
+env.local
+.build*
+# package.sh 的产物：安装包和图标不进 git，发布走 GitHub Releases
+dist/
+.machine.env

@@ -1,0 +1,2 @@
+{"id":"s1-c-001","speaker":"S1","scenario":"chat","duration_ms":12400,"audio":"audio/s1-c-001.wav","verbatim":"今天晚上七点老地方见","ideal":"今天晚上七点老地方见","terms":["老地方"],"split":"public"}
+{"id":"s2-m-002","speaker":"S2","scenario":"memo","duration_ms":21800,"audio":"audio/s2-m-002.wav","verbatim":"下周三下午三点带孩子去儿童医院复查","ideal":"下周三下午三点带孩子去儿童医院复查","terms":["儿童医院"],"split":"holdout"}
