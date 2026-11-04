@@ -287,10 +287,11 @@ final class AppModel: ObservableObject {
     private func startLevelMeter() {
         levelTimer?.invalidate()
         guard let recorder else { return }
+        // 定时器挂在主线程的 RunLoop 上，回调本来就在主线程；直接声明出来，旧编译器（Swift 5.10）也认。
         levelTimer = Timer.scheduledTimer(withTimeInterval: 1.0 / 30, repeats: true) { [weak self] _ in
-            let raw = Double(recorder.level)
-            Task { @MainActor in
+            MainActor.assumeIsolated {
                 guard let self else { return }
+                let raw = Double(recorder.level)
                 self.level += (raw - self.level) * 0.5
             }
         }
