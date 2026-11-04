@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/screenshots/en/floating-bar.png" width="560" alt="Speakorb's floating bar in its five states: listening, tidying up, done, didn't work, copied" />
+  <img src="docs/screenshots/en/demo.gif" width="720" alt="Demo: press right Option, the floating bar listens with a glowing orb, tidies up, and the sentence appears in a note" />
 </p>
 
 <h1 align="center">Speakorb · 声球</h1>
@@ -22,6 +22,8 @@
 | --- | --- |
 | <img src="docs/screenshots/en/history-daylight.png" alt="Main window, history, Daylight theme" /> | <img src="docs/screenshots/en/history-night.png" alt="Main window, history with a selected entry, Night theme" /> |
 | <img src="docs/screenshots/en/welcome.png" alt="First launch: Speak. It types." /> | <img src="docs/screenshots/en/better-accuracy.png" alt="Settings, Better accuracy: six services" /> |
+
+<p align="center"><img src="docs/screenshots/en/floating-bar.png" width="520" alt="The floating bar's five states: listening, tidying up, done, didn't work, copied" /></p>
 
 The **orb** is Speakorb's signature. It breathes with your voice while you talk, swirls while it tidies up your words, and shrinks into a text cursor when it's done. You'll see it in the floating bar, the menu bar and the app icon.
 

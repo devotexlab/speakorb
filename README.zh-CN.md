@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/screenshots/zh/floating-bar.png" width="560" alt="声球的悬浮条：在听、在整理、写好了、这次没成、已复制五种状态" />
+  <img src="docs/screenshots/zh/demo.gif" width="720" alt="演示：按右边的 Option，悬浮条里的声球跟着声音发光，整理好后这句话出现在备忘录里" />
 </p>
 
 <h1 align="center">声球 · Speakorb</h1>
@@ -22,6 +22,8 @@
 | --- | --- |
 | <img src="docs/screenshots/zh/history-daylight.png" alt="主窗口·说过的话，日光主题" /> | <img src="docs/screenshots/zh/history-night.png" alt="主窗口·说过的话，夜光主题，选中一条显示详情" /> |
 | <img src="docs/screenshots/zh/welcome.png" alt="第一次打开：说完，就有字" /> | <img src="docs/screenshots/zh/better-accuracy.png" alt="设置·更准的听写：六家服务" /> |
+
+<p align="center"><img src="docs/screenshots/zh/floating-bar.png" width="520" alt="悬浮条的五种状态：在听、在整理、写好了、这次没成、已复制" /></p>
 
 **声球**是这个 App 的标志：你说话时它跟着音量呼吸，整理时流光旋转，写好了就缩成一根光标。它出现在悬浮条、菜单栏和图标上。
 
